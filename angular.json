@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "hearx-shop"
+  "defaultProject": "hearx-shop",
+  "cli": {
+    "defaultCollection": "@datorama/akita"
+  }
 }
